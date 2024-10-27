@@ -1,4 +1,11 @@
-## КАКАШКИ 👋
+## Hii! 
+
+My name is Shus and i'm currently learning c# for unity and work stuff!!!
+Later on i'll work with frontend and SQL stuff, cause why not
+
+I'm a gamedev who previously worked on gamemaker!! also im a musician!!!
+
+Love you all!!!!!
 
 <!--
 **ShusJeirokku/ShusJeirokku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
