@@ -8,7 +8,7 @@ I'm a gamedev who previously worked on gamemaker!! also im a musician!!!
 Love you all!!!!!
 
 <p align="center">
-    <img src="bocchi-bonking.gif" alt="BOCCHI ROLLING AND BONKING" title="omg bocchi :0"/>
+    <img src="bocchi-bonking.gif" alt="BOCCHI ROLLING AND BONKING" width="498" height="323" title="omg bocchi :0"/>
 </p>
 
 <!--
