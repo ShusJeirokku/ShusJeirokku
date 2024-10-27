@@ -1,6 +1,6 @@
 # Hii! My name is Shus! 
 
-## i'm currently learning C# for Unity and work stuff!!! Later on i'll work with frontend and SQL stuff, cause why not
+## i'm currently learning C# for Unity and work stuff!!!
 
 ## Besides that, i'm a gamedev who previously worked on gamemaker and a musician!!!
 
