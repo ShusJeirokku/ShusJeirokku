@@ -1,11 +1,11 @@
-## Hii! 
+# Hii! My name is Shus! 
 
-My name is Shus and i'm currently learning c# for unity and work stuff!!!
+## i'm currently learning c# for unity and work stuff!!!
 Later on i'll work with frontend and SQL stuff, cause why not
 
-I'm a gamedev who previously worked on gamemaker!! also im a musician!!!
+## I'm a gamedev who previously worked on gamemaker!! also im a musician!!!
 
-Love you all!!!!!
+## Love you all!!!!!
 
 <p align="center">
     <img src="bocchi-bonking.gif" alt="BOCCHI ROLLING AND BONKING" width="498px" height="323px" title="omg bocchi :0"/>
