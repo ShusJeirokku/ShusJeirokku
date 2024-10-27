@@ -7,6 +7,8 @@ I'm a gamedev who previously worked on gamemaker!! also im a musician!!!
 
 Love you all!!!!!
 
+<div class="tenor-gif-embed" data-postid="27266644" data-share-method="host" data-aspect-ratio="1.53846" data-width="100%"><a href="https://tenor.com/view/bocchi-the-rock-bocchi-the-rock-gif-bocchi-hitori-gotoh-gif-27266644">Bocchi The Rock Bocchi The Rock Gif GIF</a>from <a href="https://tenor.com/search/bocchi+the+rock-gifs">Bocchi The Rock GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 <!--
 **ShusJeirokku/ShusJeirokku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
